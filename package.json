@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "queue-fifo": "^0.2.6"
+  }
+}
